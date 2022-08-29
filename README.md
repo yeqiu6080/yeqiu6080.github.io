@@ -1,1 +1,2 @@
-# yeqiu6080 的博客
+# yeqiu6080 的个人主页
+[博文](/boweng/index.md)
